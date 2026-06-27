@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-A modern, responsive personal portfolio website created using **HTML, CSS, and JavaScript** as part of the **CodeAlpha Frontend Development Internship (Task 3)**.
+A modern, responsive personal portfolio website created using **HTML, CSS, and JavaScript** as part of the **CodeAlpha Frontend Development Internship (Task 2)**.
 
 ---
 
@@ -164,11 +164,9 @@ https://your-username.github.io/CodeAlpha_Portfolio/
 
 **Name:** Gayatri Dharmale
 
-**Email:** your-email@example.com
+**Email:** gayatridharmale3@gmail.com
 
-**GitHub:** https://github.com/your-username
-
-**LinkedIn:** https://linkedin.com/in/your-profile
+**GitHub:** https://github.com/gayatridharmale3
 
 ---
 
